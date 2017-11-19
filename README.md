@@ -9,4 +9,4 @@ Chapter 5
 - [Exercise 5](https://rawgit.com/aljacinto/scala-for-the-impatient/master/chapter-05/exercise05.html)
 - [Exercise 6](https://rawgit.com/aljacinto/scala-for-the-impatient/master/chapter-05/exercise06.html)
 - [Exercise 7](https://rawgit.com/aljacinto/scala-for-the-impatient/master/chapter-05/exercise07.html)
-- [Exercise 8](https://rawgit.com/aljacinto/scala-for-the-impatient/master/chapter-05/exercise08.java)
+- [Exercise 8](https://github.com/aljacinto/scala-for-the-impatient/blob/master/chapter-05/exercise09.java)
