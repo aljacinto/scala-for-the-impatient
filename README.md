@@ -15,3 +15,8 @@ Chapter 5
 
 Chapter 6
 - [Exercise 1](https://rawgit.com/aljacinto/scala-for-the-impatient/master/chapter-06/exercise01.html)
+- [Exercise 2](https://rawgit.com/aljacinto/scala-for-the-impatient/master/chapter-06/exercise02.html)
+- [Exercise 4](https://rawgit.com/aljacinto/scala-for-the-impatient/master/chapter-06/exercise04.html)
+- [Exercise 5](https://rawgit.com/aljacinto/scala-for-the-impatient/master/chapter-06/exercise05.html)
+- [Exercise 6](https://rawgit.com/aljacinto/scala-for-the-impatient/master/chapter-06/exercise06.html)
+
