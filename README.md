@@ -1,5 +1,7 @@
-# scala-for-the-impatient
-Solutions for Scala for the Impatient 2nd edition
+# Exercise solutions for "Scala for Impatient" 2nd edition
+
+This is my solutions for chapter exercises for the Scala for the Impatient, Second Edition book.  I did not start recording my solutions until Chapter 5.  However, you should be able to click on links below and you will be taken to a Scala playground provided by [Scastie](https://scastie.scala-lang.org/).  You can then edit and run the code.  Enjoy!
+
 
 Chapter 5
 - [Exercise 1](https://rawgit.com/aljacinto/scala-for-the-impatient/master/chapter-05/exercise01.html)
