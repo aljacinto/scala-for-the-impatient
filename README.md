@@ -23,3 +23,6 @@ Chapter 6
 - [Exercise 6](https://rawgit.com/aljacinto/scala-for-the-impatient/master/chapter-06/exercise06.html)
 - [Exercise 7](https://rawgit.com/aljacinto/scala-for-the-impatient/master/chapter-06/exercise07.html)
 - [Exercise 8](https://rawgit.com/aljacinto/scala-for-the-impatient/master/chapter-06/exercise08.html)
+
+Chapter 7
+- [Exercise 1a](https://rawgit.com/aljacinto/scala-for-the-impatient/master/chapter-07/exercise01-a.html) vs. [Exercise 1b](https://rawgit.com/aljacinto/scala-for-the-impatient/master/chapter-07/exercise01-b.html)
