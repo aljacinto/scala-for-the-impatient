@@ -29,3 +29,6 @@ Chapter 7
 - [Exercise 3](https://rawgit.com/aljacinto/scala-for-the-impatient/master/chapter-07/exercise03.html)
 - [Exercise 6](https://rawgit.com/aljacinto/scala-for-the-impatient/master/chapter-07/exercise06.html)
 - [Exercise 7](https://rawgit.com/aljacinto/scala-for-the-impatient/master/chapter-07/exercise07.html)
+
+Chapter 8
+- [Exercise 1](https://rawgit.com/aljacinto/scala-for-the-impatient/master/chapter-08/exercise01.html)
