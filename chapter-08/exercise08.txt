@@ -1,0 +1,92 @@
+Compiled from "Person.scala"
+public class Person {
+  private final java.lang.String name;
+
+  public java.lang.String name();
+    Code:
+       0: aload_0
+       1: getfield      #13                 // Field name:Ljava/lang/String;
+       4: areturn
+
+  public java.lang.String toString();
+    Code:
+       0: new           #18                 // class scala/StringContext
+       3: dup
+       4: getstatic     #24                 // Field scala/Predef$.MODULE$:Lscala/Predef$;
+       7: iconst_3
+       8: anewarray     #26                 // class java/lang/String
+      11: dup
+      12: iconst_0
+      13: ldc           #28                 // String
+      15: aastore
+      16: dup
+      17: iconst_1
+      18: ldc           #30                 // String [name=
+      20: aastore
+      21: dup
+      22: iconst_2
+      23: ldc           #32                 // String ]
+      25: aastore
+      26: checkcast     #34                 // class "[Ljava/lang/Object;"
+      29: invokevirtual #38                 // Method scala/Predef$.wrapRefArray:([Ljava/lang/Object;)Lscala/collection/mutable/WrappedArray;
+      32: invokespecial #42                 // Method scala/StringContext."<init>":(Lscala/collection/Seq;)V
+      35: getstatic     #24                 // Field scala/Predef$.MODULE$:Lscala/Predef$;
+      38: iconst_2
+      39: anewarray     #4                  // class java/lang/Object
+      42: dup
+      43: iconst_0
+      44: aload_0
+      45: invokevirtual #46                 // Method getClass:()Ljava/lang/Class;
+      48: invokevirtual #51                 // Method java/lang/Class.getName:()Ljava/lang/String;
+      51: aastore
+      52: dup
+      53: iconst_1
+      54: aload_0
+      55: invokevirtual #53                 // Method name:()Ljava/lang/String;
+      58: aastore
+      59: invokevirtual #57                 // Method scala/Predef$.genericWrapArray:(Ljava/lang/Object;)Lscala/collection/mutable/WrappedArray;
+      62: invokevirtual #61                 // Method scala/StringContext.s:(Lscala/collection/Seq;)Ljava/lang/String;
+      65: areturn
+
+  public Person(java.lang.String);
+    Code:
+       0: aload_0
+       1: aload_1
+       2: putfield      #13                 // Field name:Ljava/lang/String;
+       5: aload_0
+       6: invokespecial #65                 // Method java/lang/Object."<init>":()V
+       9: return
+}
+
+Compiled from "Person.scala"
+public class SecretAgent extends Person {
+  private final java.lang.String name;
+
+  private final java.lang.String toString;
+
+  public java.lang.String name();
+    Code:
+       0: aload_0
+       1: getfield      #14                 // Field name:Ljava/lang/String;
+       4: areturn
+
+  public java.lang.String toString();
+    Code:
+       0: aload_0
+       1: getfield      #18                 // Field toString:Ljava/lang/String;
+       4: areturn
+
+  public SecretAgent(java.lang.String);
+    Code:
+       0: aload_0
+       1: aload_1
+       2: invokespecial #23                 // Method Person."<init>":(Ljava/lang/String;)V
+       5: aload_0
+       6: ldc           #25                 // String secret
+       8: putfield      #14                 // Field name:Ljava/lang/String;
+      11: aload_0
+      12: ldc           #25                 // String secret
+      14: putfield      #18                 // Field toString:Ljava/lang/String;
+      17: return
+}
+
